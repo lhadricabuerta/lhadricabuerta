@@ -16,7 +16,7 @@
 - Mobile User Management App
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com]
+- Email: lhad.ricabuerta16@gmail.com
 - LinkedIn: [Your LinkedIn]
 
 ## 🌱 Currently Seeking
