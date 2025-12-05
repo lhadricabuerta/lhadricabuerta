@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jerald Ricabuerta! 👋
 
-<!--
-**lhadricabuerta/lhadricabuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- BS Information Technology student at Camarines Sur Polytechnic Colleges
+- Passionate about web development, automation, and server deployment
+- Currently learning: Laravel, React Native, and n8n automation
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Web:** Laravel, CodeIgniter 4, React Native, HTML/CSS/JavaScript
+- **Server:** Ubuntu, Apache/Nginx, MySQL
+- **Tools:** Git, VS Code, Postman, n8n
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Birthing Home Management System (Capstone)
+- Pharmacy Inventory System
+- Mobile User Management App
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com]
+- LinkedIn: [Your LinkedIn]
+
+## 🌱 Currently Seeking
+OJT opportunities in web development and IT operations
