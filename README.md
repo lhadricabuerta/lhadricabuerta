@@ -17,7 +17,7 @@
 
 ## 📫 How to Reach Me
 - Email: lhad.ricabuerta16@gmail.com
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/jerald-ricabuerta-867b17389
 
 ## 🌱 Currently Seeking
 OJT opportunities in web development and IT operations
