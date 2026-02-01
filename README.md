@@ -12,8 +12,7 @@
 
 ## 🚀 Current Projects
 - Birthing Home Management System (Capstone)
-- Pharmacy Inventory System
-- Mobile User Management App
+- Birthing Home Appointment Assistant (n8n)
 
 ## 📫 How to Reach Me
 - Email: lhad.ricabuerta16@gmail.com
