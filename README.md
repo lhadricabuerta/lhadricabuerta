@@ -19,7 +19,6 @@ BS Information Technology graduate with a passion for backend development, workf
 ## 🚀 Featured Projects
 - **Smart Maternal Care Management System** – A Laravel-based healthcare management system with patient records, billing, inventory, appointment scheduling, and AI-powered Messenger appointment booking using n8n.
 - **DAR Procurement Monitoring System** – Automated procurement workflow using Google Apps Script and Google Sheets.
-- **Cashier Management System** – Assisted with backend development, database normalization, and feature planning for a Laravel/MySQL application.
 
 ## 📫 Contact
 - **Email:** lhad.ricabuerta16@gmail.com
