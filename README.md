@@ -60,9 +60,9 @@ Assisted in database normalization and contributed feature suggestions for a Lar
 
 ## 📊 GitHub Stats
 
-![Jerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhadricabuerta&show_icons=true&theme=default&hide_title=false)
+![Jerald's GitHub stats](https://github-stats-extended.vercel.app/api?username=lhadricabuerta&show_icons=true&theme=default&hide_title=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lhadricabuerta&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=lhadricabuerta&layout=compact)
 
 ---
 
@@ -70,3 +70,4 @@ Assisted in database normalization and contributed feature suggestions for a Lar
 
 - **Email:** lhad.ricabuerta16@gmail.com
 - **LinkedIn:** [jerald-ricabuerta](https://www.linkedin.com/in/jerald-ricabuerta-867b17389)
+- **GitHub:** [@lhadricabuerta](https://github.com/lhadricabuerta)
