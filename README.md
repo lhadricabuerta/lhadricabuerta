@@ -69,4 +69,4 @@ Assisted in database normalization and contributed feature suggestions for a Lar
 ## 📫 Contact
 
 - **Email:** lhad.ricabuerta16@gmail.com
-- **LinkedIn:** [jerald-ricabuerta](https://www.linkedin.com/in/jerald-ricabuerta-867b17389)
+- **LinkedIn:** [jeraldricabuerta](https://www.linkedin.com/in/jeraldricabuerta)
